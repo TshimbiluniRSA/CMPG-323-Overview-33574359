@@ -32,6 +32,5 @@ In order to maintain security and protect sensitive information, we will follow 
 - **Secret Management**: Secrets will be managed using a secure and reputable secret management solution, ensuring that they are encrypted and accessible only to authorized personnel.
 - **.gitignore**: The .gitignore file will be configured to exclude any files containing sensitive information to prevent accidental exposure in the repository.
 
-By adhering to these practices, I aim to maintain a secure and efficient development environment while fostering collaboration and innovation across our projects. If you have any questions or suggestions, please feel free to reach out to the project team. Happy coding!
-
+By adhering to these practices, I aim to maintain a secure and efficient development environment while fostering collaboration and innovation across our projects.
 
