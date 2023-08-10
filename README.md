@@ -2,7 +2,7 @@
 
 **Repository Overview**
 
-Welcome to the CMPG323 Project Overview repository! This serves as your guide to understanding the structure, workflow, and best practices for managing projects within this repository. Here, I will outline the requirements, features, and functionalities that ensure effective collaboration, version control, and security throughout the development process.
+Welcome to the CMPG323 Project Overview repository! This serves as my guide to understanding the structure, workflow, and best practices for managing projects within this repository. Here, I will outline the requirements, features, and functionalities that ensure effective collaboration, version control, and security throughout the development process.
 
 **1. Repository Purpose**
 
