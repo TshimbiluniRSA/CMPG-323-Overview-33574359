@@ -2,35 +2,34 @@
 
 **Repository Overview**
 
-Welcome to the CMPG323 Project Overview repository! This serves as my guide to understanding the structure, workflow, and best practices for managing projects within this repository. Here, I will outline the requirements, features, and functionalities that ensure effective collaboration, version control, and security throughout the development process.
+Welcome to my CMPG323 Project Overview repository! This is where I'll guide you through understanding the structure, workflow, and best practices for managing projects within this repository. I'll outline the requirements, features, and functionalities that ensure effective collaboration, version control, and security throughout our development process.
 
 **1. Repository Purpose**
 
-This repository is designed to host multiple projects, each with its own dedicated repository. These repositories will be used to manage and organize the development of distinct features, enhancements, and bug fixes. By separating projects into individual repositories, we can maintain clear boundaries, facilitate focused development, and streamline collaboration.
+I've designed this repository to host multiple projects, with each project having its own dedicated repository. These repositories will help us manage and organize the development of distinct features, enhancements, and bug fixes. By separating our projects into individual repositories, we'll maintain clear boundaries, facilitate focused development, and streamline our collaboration.
 
 **2. Project and Repository Integration**
 
-You will find a diagram that illustrates how projects and repositories are integrated within our development environment. This diagram will help you visualize how changes flow from local development environments to project-specific repositories and eventually get integrated into the main codebase.
+You'll find a diagram that illustrates how we integrate projects and repositories within our development environment. This diagram will give you a visual of how changes flow from local development environments to project-specific repositories and eventually get integrated into our main codebase.
 
 **3. Branching Strategy**
 
-Within each project repository, we will follow a well-defined branching strategy to ensure organized and efficient development. The branching strategy consists of the following branches:
+Within each project repository, we'll follow a well-defined branching strategy to ensure organized and efficient development. Our branching strategy consists of the following branches:
 
-- **Main**: The main branch represents the production-ready codebase. It contains stable and thoroughly tested features.
-- **Develop**: The develop branch is where ongoing development and integration of new features take place. It serves as a staging area for upcoming changes.
-- **Feature Branches**: Each new feature will have its own dedicated branch created from the develop branch. These branches allow developers to work on features independently without disrupting the main or ongoing development.
+- **Main**: The main branch is where our production-ready codebase resides. It contains stable and thoroughly tested features.
+- **Develop**: Our ongoing development and integration of new features happen in the develop branch. It's a staging area for upcoming changes.
+- **Feature Branches**: Each new feature gets its own dedicated branch created from the develop branch. These branches allow us to work on features independently without disrupting the main codebase or ongoing development.
 
 **4. .gitignore File Usage**
 
-A .gitignore file will be included in each project repository. This file specifies which files and directories should be excluded from version control. It helps to avoid cluttering the repository with unnecessary files and sensitive data.
+We'll include a .gitignore file in each project repository. This file specifies which files and directories should be excluded from version control. It helps us avoid cluttering the repository with unnecessary files and sensitive data.
 
 **5. Handling Credentials and Sensitive Information**
 
-In order to maintain security and protect sensitive information, we will follow these practices:
+To maintain security and protect sensitive information, we'll follow these practices:
 
-- **Environment Variables**: Sensitive information such as API keys, database credentials, and authentication tokens will be stored as environment variables rather than hardcoding them into the code.
-- **Secret Management**: Secrets will be managed using a secure and reputable secret management solution, ensuring that they are encrypted and accessible only to authorized personnel.
-- **.gitignore**: The .gitignore file will be configured to exclude any files containing sensitive information to prevent accidental exposure in the repository.
+- **Environment Variables**: Sensitive info like API keys, database credentials, and authentication tokens will be stored as environment variables instead of hardcoded into the code.
+- **Secret Management**: We'll manage secrets using a secure and reputable secret management solution, ensuring encryption and limited access to authorized personnel.
+- **.gitignore**: Our .gitignore file will be set up to exclude any files containing sensitive info, preventing accidental exposure in the repository.
 
-By adhering to these practices, I aim to maintain a secure and efficient development environment while fostering collaboration and innovation across our projects.
-
+By sticking to these practices, my goal is to uphold a secure and efficient development environment while encouraging collaboration and innovation across our projects.
